@@ -114,9 +114,10 @@ Cisco-zertifiziert (**CCNA**); fundierte Kenntnisse in Windows-Client-/Server- u
 
 ## 📫 Kontakt
 
-📧 haydarkozat@hotmail.com ·
-💼 [linkedin.com/in/haydar-kozat](https://linkedin.com/in/haydar-kozat) ·
-📍 Arsuz/Hatay, Türkei → 🇩🇪 Deutschland (ab 09/2026)
+📧 haydarkozat@hotmail.com · haydarrana@gmail.com
+<br>📱 [+90 530 794 87 92](https://wa.me/905307948792) (WhatsApp/Signal)
+<br>💼 [linkedin.com/in/haydar-kozat](https://linkedin.com/in/haydar-kozat) · 🐙 [github.com/haydarkozat](https://github.com/haydarkozat)
+<br>📍 Arsuz/Hatay, Türkei → 🇩🇪 Deutschland (ab 09/2026)
 
 ---
 
@@ -133,6 +134,6 @@ Cisco-certified (**CCNA**); solid skills in Windows client/server and Linux envi
 
 Open to opportunities as **IT System Administrator**, **Network/Security Administrator** or **DevOps/Cloud** roles in Germany.
 
-📧 haydarkozat@hotmail.com
+📧 haydarkozat@hotmail.com · haydarrana@gmail.com · 📱 +90 530 794 87 92 (WhatsApp/Signal) · 💼 [LinkedIn](https://linkedin.com/in/haydar-kozat)
 
 </details>
